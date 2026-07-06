@@ -44,6 +44,9 @@ I enjoy developing production-ready applications, creating clean user interfaces
   Achievement: 25th position among 137 teams  
   Project: HireGen AI
 
+- 🌍 UNESCO Youth Hackathon  
+  Status: Registered / In Progress
+
 
 **National AI Programs & Hackathons**
 
@@ -56,13 +59,8 @@ I enjoy developing production-ready applications, creating clean user interfaces
 - 🚀 Dev Launch Hackathon  
   Role: Participant
 
-- 🌍 UNESCO Youth Hackathon  
-  Status: Registered / In Progress
-
 ---
 
-
----
 
 ## 🚀 Featured Projects
 
