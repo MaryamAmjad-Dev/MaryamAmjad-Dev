@@ -14,43 +14,12 @@ I enjoy developing production-ready applications, creating clean user interfaces
 
 ---
 
-## 🛠️ Tech Stack
+## ⭐ Achievements
 
-**Frontend**  
-React.js | Next.js | TypeScript | JavaScript | Tailwind CSS
-
-**Backend**  
-Node.js | Express.js | MongoDB | REST APIs
-
-**Tools & Platforms**  
-Git | GitHub | VS Code | Cursor | Vercel | MongoDB Atlas
-
-**AI**  
-Generative AI | AI Automation | Agentic AI
-
----
-
-## 🚀 Featured Projects
-
-**Driving Web Forms System**
-- Built with Next.js and MongoDB Atlas
-- Developed Contact & Booking form system
-- Created API routes and database models
-- Added validation and user feedback handling
-
-**AI Portfolio**
-- Built modern developer portfolio
-- Next.js + TypeScript + Tailwind CSS
-- Integrated AI focused features
-
-**HireGen AI**
-- AI-powered hiring platform
-- Auto-generates role-specific interview questions
-- Assesses candidate responses and produces scoring reports
-
-**AI Feature Kit** (Final Year Project) 🏆 *1st Position in Class*
-- Modular platform consolidating 5 AI tools: Text-to-Image, Text-to-Voice, Background Removal, Text Summarizer, Voice Changer
-- Architected for independent module updates without affecting other features
+- 🥇 **1st Position** in class — Final Year Project (AI Feature Kit)
+- 🏆 **25th/137 teams** — CodeSprint LA
+- 👥 **2× Hackathon Team Lead** | **5–6× Hackathon Participant**
+- 📈 **4,000+ LinkedIn followers** — sharing developer journey & AI insights
 
 ---
 
@@ -65,14 +34,63 @@ Generative AI | AI Automation | Agentic AI
 
 ---
 
-## ⭐ Achievements
 
-- 🥇 **1st Position** in class — Final Year Project (AI Feature Kit)
-- 🏆 **25th/137 teams** — CodeSprint LA
-- 👥 **2× Hackathon Team Lead** | **5–6× Hackathon Participant**
-- 📈 **4,000+ LinkedIn followers** — sharing developer journey & AI insights
+## 🚀 Featured Projects
+
+**AI Portfolio (Maryam-Amjad-Portfolio)**
+- Built a modern, next-generation developer portfolio
+- Next.js + TypeScript + Tailwind CSS
+- Integrated Generative AI-focused features
+
+**AI Feature Kit** (Final Year Project) 🏆 *1st Position in Class*
+- Modular platform consolidating 5 AI tools: Text-to-Image, Text-to-Voice, Background Removal, Text Summarizer, Voice Changer
+- Architected for independent module updates without affecting other features
+
+**HireGen AI**
+- AI-powered hiring platform
+- Auto-generates role-specific interview questions
+- Assesses candidate responses and produces scoring reports
+- *(Built during a hackathon)*
+
+**Edge-Native AIUC Gateway**
+- Security middleware layer for AI applications
+- Automatically strips PII and API keys from prompts before external transmission
+- Built with Node.js and Edge Computing
+
+**Driving Web Forms System**
+- Built with Next.js 16 and MongoDB Atlas
+- Developed Contact & Booking form system with Serverless Actions
+- Created API routes and database models
+- Added validation and user feedback handling
+
+**Mat-front** (MatchHalf Internship Project)
+- Contributed frontend features for a production-grade social networking application
+- Built with Next.js, React, TypeScript, and Tailwind CSS
+- Worked on reusable components, skeleton loaders, tab persistence, and mobile responsiveness
+
+**Wildlife Site**
+- Frontend-only project
+- Built with HTML, React.js, and Tailwind CSS
+
+  ---
+
+  
+## 🛠️ Tech Stack
+
+**Frontend**  
+React.js | Next.js | TypeScript | JavaScript | Tailwind CSS
+
+**Backend**  
+Node.js | Express.js | MongoDB | REST APIs
+
+**Tools & Platforms**  
+Git | GitHub | VS Code | Cursor | Linear | Vercel | MongoDB Atlas
+
+**AI**  
+Generative AI | AI Automation | Agentic AI
 
 ---
+
 
 ## 📊 GitHub Stats
 ![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true)
