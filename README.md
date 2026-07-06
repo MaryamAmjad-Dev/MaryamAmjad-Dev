@@ -16,64 +16,121 @@ I enjoy developing production-ready applications, creating clean user interfaces
 
 ## ⭐ Achievements
 
-- 🥇 **1st Position** in class — Final Year Project (AI Feature Kit)
-- 🏆 **25th/137 teams** — CodeSprint LA
-- 👥 **2× Hackathon Team Lead** | **5–6× Hackathon Participant**
-- 📈 **4,000+ LinkedIn followers** — sharing developer journey & AI insights
+**Academic & Project Recognition**
+- 🥇 Final Year Project — 1st Position in class (AI Feature Kit)
+
+**International Competitions**
+- 🏆 CodeSprint LA — Ranked 25th out of 137 teams
+
+**Leadership**
+- 👥 Led teams in 2× National AI Hackathons
+- 🚀 Participated in 5–6× Hackathons
+
+**Community**
+- 📈 Built a LinkedIn community of 4,000+ followers by sharing development journey, projects, and AI insights
 
 ---
 
 ## 🏆 Hackathons & Competitions
 
-- 🤖 **AMD Developer Hackathon: ACT II** (International, lablab.ai) — Team "Shaheen" *(in progress)*
-- 💻 **CodeSprint LA** (International) — 25th position out of 137 teams — Project: HireGen AI
-- 🧠 **HEC GenAI Cohort 2** (National) — Team Lead
-- 🧠 **HEC GenAI Cohort 3** (National) — Team Lead
-- 🚀 **Dev Launch Hackathon** (National)
-- 🌍 **UNESCO Youth Hackathon** — Registered *(in progress)*
+**International Hackathons**
+
+- 🤖 AMD Developer Hackathon: ACT II (lablab.ai)  
+  Role: Team Member  
+  Team: Shaheen  
+  Status: In Progress
+
+- 💻 CodeSprint LA  
+  Achievement: 25th position among 137 teams  
+  Project: HireGen AI
+
+
+**National AI Programs & Hackathons**
+
+- 🧠 HEC GenAI Cohort 2  
+  Role: Team Lead
+
+- 🧠 HEC GenAI Cohort 3  
+  Role: Team Lead
+
+- 🚀 Dev Launch Hackathon  
+  Role: Participant
+
+- 🌍 UNESCO Youth Hackathon  
+  Status: Registered / In Progress
 
 ---
 
 
+---
+
 ## 🚀 Featured Projects
 
-**AI Portfolio (Maryam-Amjad-Portfolio)**
-- Built a modern, next-generation developer portfolio
-- Next.js + TypeScript + Tailwind CSS
-- Integrated Generative AI-focused features
+### 🌟 Portfolio
 
-**AI Feature Kit** (Final Year Project) 🏆 *1st Position in Class*
-- Modular platform consolidating 5 AI tools: Text-to-Image, Text-to-Voice, Background Removal, Text Summarizer, Voice Changer
-- Architected for independent module updates without affecting other features
+**AI Developer Portfolio (Maryam-Amjad-Portfolio)**
+- Created a modern personal developer portfolio showcasing skills, projects, and experience
+- Built with Next.js, TypeScript, and Tailwind CSS
+- Integrated AI-focused features and interactive UI experience
+- Live: https://maryam-amjad-portfolio.vercel.app/
 
-**HireGen AI**
-- AI-powered hiring platform
-- Auto-generates role-specific interview questions
-- Assesses candidate responses and produces scoring reports
-- *(Built during a hackathon)*
+
+---
+
+### 🤖 AI & Machine Learning Projects
+
+**AI Feature Kit (Final Year Project)**
+- 🥇 Achieved 1st Position in class
+- Developed a modular AI platform combining multiple AI-powered tools
+- Features: Text-to-Image, Text-to-Voice, Background Removal, Text Summarizer, and Voice Changer
+- Designed independent modules for easier scalability and updates
+
+
+**HireGen AI (Hackathon Project)**
+- Built an AI-powered recruitment platform
+- Generates role-specific interview questions automatically
+- Evaluates candidate responses and creates scoring reports
+- Developed during CodeSprint LA Hackathon
+
 
 **Edge-Native AIUC Gateway**
-- Security middleware layer for AI applications
-- Automatically strips PII and API keys from prompts before external transmission
-- Built with Node.js and Edge Computing
+- Developed security middleware for AI applications
+- Removes sensitive data including PII and API keys before external AI processing
+- Built using Node.js and Edge Computing concepts
+
+
+---
+
+### 🌐 Full Stack Web Applications
 
 **Driving Web Forms System**
-- Built with Next.js 16 and MongoDB Atlas
-- Developed Contact & Booking form system with Serverless Actions
-- Created API routes and database models
-- Added validation and user feedback handling
+- Built using Next.js 16 and MongoDB Atlas
+- Developed Contact and Booking form workflows
+- Created serverless API routes and database models
+- Added form validation, loading states, and user feedback handling
 
-**Mat-front** (MatchHalf Internship Project)
-- Contributed frontend features for a production-grade social networking application
-- Built with Next.js, React, TypeScript, and Tailwind CSS
-- Worked on reusable components, skeleton loaders, tab persistence, and mobile responsiveness
 
-**Wildlife Site**
-- Frontend-only project
-- Built with HTML, React.js, and Tailwind CSS
+---
 
-  ---
+### 💼 Industry Experience Projects
 
+**Mat-front (MatchHalf Internship Project)**
+- Contributed to a production-level social networking application
+- Developed reusable frontend components
+- Worked on skeleton loaders, tab state persistence, responsive layouts, and UI optimization
+- Tech Stack: Next.js, React.js, TypeScript, Tailwind CSS
+
+
+---
+
+### 🎨 Frontend Projects
+
+**Wildlife Website**
+- Developed a responsive frontend web application
+- Built reusable UI sections and modern layouts
+- Tech Stack: React.js, HTML, Tailwind CSS
+
+---
   
 ## 🛠️ Tech Stack
 
