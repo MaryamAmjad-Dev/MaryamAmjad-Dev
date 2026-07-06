@@ -57,4 +57,5 @@ Generative AI | AI Automation | Agentic AI
 ## 🔗 Connect With Me
 
 LinkedIn:  https://www.linkedin.com/in/maryam-amjad-3a235a315/
+
 Portfolio: https://maryam-amjad-portfolio.vercel.app/
