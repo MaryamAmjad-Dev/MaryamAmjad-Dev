@@ -17,7 +17,7 @@ React.js | Next.js | TypeScript | JavaScript | Tailwind CSS
 Node.js | Express.js | MongoDB | REST APIs
 
 **Tools & Platforms**  
-Git | GitHub | VS Code | Vercel | MongoDB Atlas
+Git | GitHub | VS Code | Cursor | Vercel | MongoDB Atlas
 
 **AI**  
 Generative AI | AI Automation | Agentic AI
