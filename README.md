@@ -1,5 +1,11 @@
+<div align="center">
+
 # Maryam Amjad
-### MERN Stack Developer | AI Automation & Agentic AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Next.js+%26+React+Developer;AI+Automation+Enthusiast;Building+Scalable+Web+Applications" />
+
+</div>
+
 ---
 
 ## 👩‍💻 About Me
