@@ -327,13 +327,12 @@ src="https://streak-stats.demolab.com?user=MaryamAmjad-Dev&theme=tokyonight&hide
 
 ---
 
-# 🏆 GitHub Trophies
-
+# 🏆 GitHub Profile Summary
 
 <p align="center">
 
 <img 
-src="https://github-profile-trophy.vercel.app/?username=MaryamAmjad-Dev&theme=algolia&no-frame=true&margin-w=15&margin-h=15"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaryamAmjad-Dev&theme=tokyonight"
 />
 
 </p>
