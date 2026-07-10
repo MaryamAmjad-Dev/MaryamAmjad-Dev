@@ -113,64 +113,81 @@ React.js • Vite • Node.js • Express.js • MongoDB • Mongoose • JWT �
 
 ---
 
-
-# AMD ZeroToken AI Router 🚀
-
-
-Next-generation AI optimization platform built to reduce AI inference cost using intelligent hybrid routing architecture.
+# AMD ZeroToken Hybrid AI Router 🚀
 
 
-The system uses a 5-layer AI pipeline to decide whether requests should run locally or through premium AI models.
+🏆 Developed for **AMD Developer Hackathon: ACT II (lablab.ai)**
+
+AMD ZeroToken Hybrid AI Router is a next-generation AI optimization platform designed to reduce AI inference costs while maintaining high accuracy through an intelligent hybrid AI routing architecture.
+
+Built during the AMD Developer Hackathon, this project explores how modern AI applications can become faster, cheaper, and more efficient by combining local AI processing with premium cloud-based AI models.
+
+The system uses a 5-layer AI decision pipeline that analyzes every user request and automatically selects the most efficient execution path based on complexity, cost, and performance.
 
 
-## Highlights
+## ✨ Key Highlights
 
 
-### 🧠 Hybrid AI Routing
+### 🧠 Hybrid AI Routing Engine
 
-Smart routing between:
+Smart AI decision system that routes requests between:
 
 - Local AI models
-- Cloud AI APIs
+- Premium cloud AI APIs
 
 
-### ⚡ ZeroToken Optimization
+### ⚡ ZeroToken Optimization Pipeline
 
-- Prompt optimization
-- Token reduction
+Reduces unnecessary token usage using:
+
+- Prompt preprocessing
 - Semantic caching
+- Intelligent request optimization
 
 
-### 🔍 5-Layer AI Pipeline
+### 🔍 5-Layer AI Architecture
 
 - Regex Prompt Optimization
-- MiniLM Semantic Cache
-- XGBoost Intent Classifier
-- Local Qwen Processing
-- Fireworks AI Routing
+- MiniLM Semantic Caching
+- XGBoost Intent Classification
+- Local Qwen AI Processing
+- Fireworks AI Premium Routing
 
 
-### 📊 Dashboard
+### 💬 Interactive AI Console
 
-Tracks:
+- AI-powered chat interface
+- Real-time routing visualization
+- Local vs Cloud model decision tracking
+
+
+### 📊 AI Analytics Dashboard
+
+Visualizes:
 
 - Token savings
-- Latency
-- Routing decisions
-- Model performance
+- AI routing decisions
+- Response latency
+- Model performance comparison
 
 
-### 🎨 UI Experience
+### 🎨 Premium AI Experience
 
-- Space inspired UI
-- Glassmorphism
-- Dark/Light themes
-- Cursor effects
+- Space-inspired interface
+- Glassmorphism UI
+- Dark / Light mode
+- Smooth animations
+- Interactive cursor glow effects
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
-Next.js • React • TypeScript • Tailwind CSS • FastAPI • Framer Motion • ML Concepts
+Next.js • React.js • TypeScript • Tailwind CSS • Framer Motion • FastAPI • Machine Learning Routing Concepts
+
+
+## 🎯 Goal
+
+To demonstrate how next-generation AI applications can reduce cost and improve efficiency through intelligent hybrid model routing.
 
 
 ---
