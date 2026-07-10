@@ -281,19 +281,33 @@ Next.js • React.js • TypeScript • Tailwind CSS
 
 ![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+
+## Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 
 ---
 
 # 📊 GitHub Analytics
 
-
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img 
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
@@ -302,10 +316,11 @@ Next.js • React.js • TypeScript • Tailwind CSS
 
 # 🔥 GitHub Streak
 
-
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamAmjad-Dev&theme=tokyonight&hide_border=true"/>
+<img 
+src="https://streak-stats.demolab.com?user=MaryamAmjad-Dev&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
@@ -314,10 +329,11 @@ Next.js • React.js • TypeScript • Tailwind CSS
 
 # 🏆 GitHub Trophies
 
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MaryamAmjad-Dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img 
+src="https://github-profile-trophy.vercel.app/?username=MaryamAmjad-Dev&theme=tokyonight&no-frame=true&row=1&column=6"
+/>
 
 </p>
 
@@ -326,10 +342,11 @@ Next.js • React.js • TypeScript • Tailwind CSS
 
 # 📈 Contribution Graph
 
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-Dev&theme=tokyo-night&hide_border=true"/>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-Dev&theme=tokyo-night&hide_border=true"
+/>
 
 </p>
 
