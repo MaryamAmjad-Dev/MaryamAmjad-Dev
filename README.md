@@ -300,13 +300,13 @@ Next.js • React.js • TypeScript • Tailwind CSS
 <p align="center">
 
 <img 
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+height="170"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img 
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true"
+height="170"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </p>
@@ -329,14 +329,14 @@ src="https://streak-stats.demolab.com?user=MaryamAmjad-Dev&theme=tokyonight&hide
 
 # 🏆 GitHub Trophies
 
+
 <p align="center">
 
 <img 
-src="https://github-profile-trophy.vercel.app/?username=MaryamAmjad-Dev&theme=tokyonight&no-frame=true&row=1&column=6"
+src="https://github-profile-trophy.vercel.app/?username=MaryamAmjad-Dev&theme=algolia&no-frame=true&margin-w=15&margin-h=15"
 />
 
 </p>
-
 
 ---
 
