@@ -179,9 +179,7 @@ Next.js • React • TypeScript • Tailwind CSS • FastAPI • Framer Motion 
 # 🤖 HireGen AI — AI Recruitment Platform
 
 
-AI-powered recruitment assistant built during CodeSprint LA Hackathon.
-
-🏆 Ranked 25th among 137 teams.
+AI-powered recruitment assistant built during The HEC Generative AI Cohart-2 Hcakathon 2026.
 
 
 ## Features
