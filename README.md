@@ -364,7 +364,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect 
 
 
 LinkedIn:  
