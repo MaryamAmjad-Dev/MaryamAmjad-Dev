@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Next.js+Developer;AI+Automation+Enthusiast;Hackathon+Participant;Building+AI+Powered+Applications" />
 
-### MERN Stack Developer | Next.js Developer | AI Automation Enthusiast
+### MERN Stack Developer | Next.js Developer | AI Automation Expert
 
 </div>
 
