@@ -1,10 +1,15 @@
+```md
 <div align="center">
 
-# Maryam Amjad
+# 👋 Hi, I'm Maryam Amjad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Next.js+Developer;AI+Automation+Enthusiast;Hackathon+Participant;Building+AI+Powered+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Next.js+Developer;AI+Automation+Engineer;Hackathon+Participant;Building+Scalable+AI-Powered+Applications" />
 
-### MERN Stack Developer | Next.js Developer | AI Automation Expert
+### MERN Stack Developer • Next.js Developer • AI Automation Engineer
+
+<p>
+Building scalable full-stack applications powered by Artificial Intelligence, modern web technologies, and intuitive user experiences.
+</p>
 
 </div>
 
@@ -12,286 +17,246 @@
 
 # 👩‍💻 Professional Summary
 
-Passionate MERN Stack Developer specializing in building scalable, production-ready, and AI-powered web applications.
+Passionate **MERN Stack Developer** with expertise in building scalable, production-ready, and AI-powered web applications.
 
-Experienced with:
+Strong experience in designing modern frontend interfaces, developing secure backend APIs, integrating AI services, and deploying full-stack applications.
 
-**React.js • Next.js • Node.js • Express.js • MongoDB • TypeScript • Tailwind CSS**
+### Core Technologies
 
-Focused on combining modern full-stack development with:
+**React.js • Next.js • Node.js • Express.js • MongoDB • TypeScript • Tailwind CSS • REST APIs**
 
-- Generative AI
-- Agentic AI Systems
-- AI Automation
-- Intelligent Web Applications
+### Current Focus
+
+- 🤖 Generative AI Applications
+- 🧠 Agentic AI Systems
+- ⚡ AI Automation
+- 🌐 Intelligent Web Platforms
+- 🚀 Performance Optimization
 
 ---
 
-# ⭐ Achievements
+# 🎓 Education
 
+### Government College University Faisalabad (GCUF)
 
-## 🏅 Academic
+**Bachelor of Science in Information Technology (BSIT)**  
 
-- 🥇 Final Year Project — 1st Position (AI Feature Kit)
+- 🥇 Final Year Project secured **1st Position**
+- 🤖 Built **AI Feature Kit**, an AI-powered multi-tool platform
+- 📚 Focused on AI, Software Engineering, Full-Stack Development, Databases, and Cloud Computing
 
+---
 
-## 🌍 International Competitions
+# 🏆 Achievements
 
-- 🏆 CodeSprint LA — Ranked 25th among 137 teams
-- 🤖 AMD Developer Hackathon ACT II
+## 🥇 Academic
+
+- Final Year Project — **1st Position**
+- Built **AI Feature Kit**, an AI-powered productivity platform
+
+## 🌍 International Hackathons
+
+- 🏆 CodeSprint LA — Ranked **25th among 137 Teams**
+- 🤖 AMD Developer Hackathon ACT II (lablab.ai)
 - 🌐 UNESCO Youth Hackathon
-
 
 ## 👥 Leadership
 
-- Led teams in 2× National AI Hackathons
-- Participated in 5–6 Hackathons
-
+- Led teams in **2 National AI Hackathons**
+- Participated in **6+ Hackathons**
 
 ## 🌱 Community
 
-- Built a LinkedIn community of 4000+ followers sharing AI and development journey
-
+- Built a LinkedIn community of **4,000+ professionals**
+- Regularly share content on AI, Web Development, and Career Growth
 
 ---
 
 # 🚀 Featured Projects
 
+## 🥇 AI Feature Kit — AI Powered Multi Tool Platform
 
-# 🥇 AI Feature Kit — AI Powered Multi Tool Platform
+🏆 **Final Year Project — 1st Position**
 
+AI Feature Kit is a modular AI ecosystem that combines multiple AI tools into one seamless platform.
 
-Final Year Project — 1st Position 🏆
-
-AI Feature Kit is a modular AI platform combining multiple intelligent tools into one scalable ecosystem.
-
-
-## Features
+### Features
 
 - 🎨 Text-to-Image Generation
-- 🔊 Text-to-Voice Conversion
-- 🖼 Background Removal
-- 📝 AI Text Summarization
+- 🔊 Text-to-Speech
 - 🎙 Voice Changer
-- ⚡ Modular AI architecture
+- 📝 AI Text Summarization
+- 🖼 Background Removal
+- ⚡ Modular AI Architecture
 
+### Tech Stack
 
-## Tech Stack
-
-React.js • Node.js • Express.js • AI APIs • REST APIs
-
+React.js • Node.js • Express.js • REST APIs • AI APIs
 
 ---
 
+## 🦋 MIRA AI by Maryam — Personal Growth Assistant
 
-# MIRA AI By Maryam 🦋 — Personal Growth Assistant
+An AI-powered MERN application designed to improve emotional well-being, productivity, and self-growth through intelligent insights.
 
+### Features
 
-AI-powered full-stack MERN application designed to improve personal growth through self-reflection, emotional awareness, and productivity tracking.
+- 🤖 AI Wellness Coach
+- 📔 Smart Mood Journal
+- 🌱 Habit Tracking
+- 🎯 Goal Management
+- 📊 Analytics Dashboard
+- 🌍 Multi-language Support
+- 🔐 JWT Authentication
+- 🌓 Dark / Light Theme
+- 📱 Fully Responsive Design
 
-MIRA combines AI wellness coaching, journaling, analytics, and personalized experiences into a modern interactive platform.
-
-
-## Features
-
-- 🤖 Personalized AI wellness coach
-- 📔 Intelligent mood journal
-- 🌱 Habit tracking
-- 🎯 Goal management
-- 📊 Analytics dashboard
-- 🦋 Digital avatar experience
-- 🌍 Multi-language support
-- 🔐 JWT authentication
-- 🌓 Dark / Light mode
-- 📱 Responsive UI
-
-
-## Tech Stack
+### Tech Stack
 
 React.js • Vite • Node.js • Express.js • MongoDB • Mongoose • JWT • REST APIs • AI Integration
 
+---
+
+## 🚀 AMD ZeroToken Hybrid AI Router
+
+🏆 Developed for **AMD Developer Hackathon ACT II (lablab.ai)**
+
+An intelligent AI routing platform that minimizes inference costs by automatically selecting between local and cloud AI models.
+
+### Features
+
+- 🧠 Hybrid AI Routing
+- ⚡ ZeroToken Optimization
+- 🔍 Five-Layer Decision Pipeline
+- 🤖 Local + Cloud Model Selection
+- 📊 Token Savings Analytics
+- 💬 Interactive AI Console
+- 🎨 Modern Glassmorphism UI
+
+### Tech Stack
+
+Next.js • React • TypeScript • Tailwind CSS • FastAPI • Framer Motion • Machine Learning
 
 ---
 
+## 🤖 HireGen AI — AI Recruitment Platform
 
-# AMD ZeroToken Hybrid AI Router 🚀
+Built during the **HEC Generative AI Cohort-2 Hackathon 2026**.
 
-🏆 Developed for **AMD Developer Hackathon: ACT II (lablab.ai)**
+### Features
 
-An AI optimization platform built to reduce AI inference costs using an intelligent hybrid routing system.
+- AI Interview Generation
+- Candidate Evaluation
+- Automated Scoring
+- Recruitment Analytics
 
-The platform analyzes user requests and automatically decides whether to process them using local AI models or premium cloud AI APIs for better performance and cost efficiency.
-
-
-## ✨ Features
-
-- 🧠 Hybrid AI routing between local and cloud models
-- ⚡ ZeroToken optimization for reducing token usage
-- 🔍 5-layer AI decision pipeline:
-  - Regex Prompt Optimization
-  - MiniLM Semantic Caching
-  - XGBoost Intent Classification
-  - Local Qwen Processing
-  - Fireworks AI Routing
-- 💬 Interactive AI console with routing visualization
-- 📊 Analytics dashboard for token savings & latency
-- 🎨 Glassmorphism UI with animations and themes
-
-
-## 🛠 Tech Stack
-
-Next.js • React.js • TypeScript • Tailwind CSS • Framer Motion • FastAPI • Machine Learning Concepts
-
-
-
----
-
-
-# 🤖 HireGen AI — AI Recruitment Platform
-
-
-AI-powered recruitment assistant built during The HEC Generative AI Cohart-2 Hcakathon 2026.
-
-
-## Features
-
-- AI interview generation
-- Candidate response evaluation
-- Automated scoring
-- Recruitment analytics
-
-
-## Tech Stack
+### Tech Stack
 
 MERN Stack • AI Automation
 
+---
+
+## 🌐 Maryam Amjad Portfolio
+
+A modern AI-inspired developer portfolio showcasing projects, achievements, hackathons, and technical expertise.
+
+### Features
+
+- 🤖 Gemini AI Assistant
+- 🌍 Multi-language Support
+- 🎨 Glassmorphism UI
+- ✨ Interactive Animations
+- 🖱 Mouse Tracking & Cursor Effects
+- 📄 Resume Download
+- 📬 Contact Integration
+
+### Tech Stack
+
+Next.js • React • TypeScript • Tailwind CSS • Gemini API • Vercel
 
 ---
 
+## 🌐 Driving Web Forms System
 
-# 🌐 Maryam Amjad Portfolio — AI Powered Developer Portfolio
+Production-ready form management system built using Next.js.
 
+### Features
 
-Next-generation AI inspired portfolio built with Next.js, TypeScript, and modern frontend technologies.
-
-
-## Features
-
-
-### 🤖 AI Experience
-
-- Gemini AI assistant
-- Smart portfolio exploration
-- AI responses about projects and skills
-
-
-### 🌍 Multi Language
-
-- Multiple languages
-- Dynamic switching
-
-
-### 🎨 Interactive UI
-
-- Glassmorphism design
-- AI animations
-- Neon cursor glow
-- Mouse tracking
-- Smooth transitions
-
-
-### Portfolio System
-
-- Experience showcase
-- Projects
-- Hackathons
-- Resume download
-- Contact integration
-
-
-## Tech Stack
-
-Next.js • React.js • TypeScript • Tailwind CSS • Gemini API • Vercel
-
-
----
-
-
-# 🌐 Driving Web Forms System
-
-
-Production-ready Next.js form management platform.
-
-
-## Features
-
-- Contact forms
-- Booking workflow
+- Contact Forms
+- Booking Workflow
 - Serverless APIs
-- MongoDB Atlas
-- Validation system
-- Toast notifications
+- MongoDB Atlas Integration
+- Validation System
+- Toast Notifications
 
+### Tech Stack
 
-## Tech Stack
-
-Next.js 16 • MongoDB • Tailwind CSS
-
+Next.js 16 • MongoDB Atlas • Tailwind CSS
 
 ---
 
-
-# 💼 MatchHalf Internship Project
-
+## 💼 MatchHalf Internship Project
 
 Contributed to a production-level social networking platform.
 
+### Contributions
 
-## Work
-
-- Reusable components
-- Skeleton loaders
+- Reusable Components
+- Skeleton Loaders
+- State Persistence
 - Responsive UI
-- State persistence
-- Performance optimization
+- Performance Optimization
 
+### Tech Stack
 
-## Tech Stack
-
-Next.js • React.js • TypeScript • Tailwind CSS
-
+Next.js • React • TypeScript • Tailwind CSS
 
 ---
 
 # 🛠 Tech Stack
 
+### Frontend
 
-## Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### Backend
 
-![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+- Node.js
+- Express.js
+- Python
+- REST APIs
+- JWT Authentication
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+### Database
 
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+- MongoDB
+- Mongoose
+- MySQL
 
+### Tools
 
-## Backend
+- Git
+- GitHub
+- Cursor
+- VS Code
+- Vercel
+- Render
+- Figma
 
-![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+### AI Technologies
 
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
+- Gemini API
+- AI APIs
+- AI Automation
+- Agentic AI
+- Generative AI
+- Prompt Engineering
 
 ---
 
@@ -299,18 +264,11 @@ Next.js • React.js • TypeScript • Tailwind CSS
 
 <p align="center">
 
-<img 
-height="170"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img 
-height="170"
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 
 ---
 
@@ -318,12 +276,9 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 <p align="center">
 
-<img 
-src="https://streak-stats.demolab.com?user=MaryamAmjad-Dev&theme=tokyonight&hide_border=true"
-/>
+<img src="https://streak-stats.demolab.com?user=MaryamAmjad-Dev&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 
 ---
 
@@ -331,9 +286,7 @@ src="https://streak-stats.demolab.com?user=MaryamAmjad-Dev&theme=tokyonight&hide
 
 <p align="center">
 
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaryamAmjad-Dev&theme=tokyonight"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaryamAmjad-Dev&theme=tokyonight"/>
 
 </p>
 
@@ -343,42 +296,39 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <p align="center">
 
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-Dev&theme=tokyo-night&hide_border=true"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-Dev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
+---
+
+# 🔬 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Generative AI
+- ⚡ Agentic AI
+- 🌐 Full-Stack Development
+- 🚀 AI Automation
+- ☁ Cloud Computing
+- 📈 Scalable Systems
 
 ---
 
-# 🔬 Interests
+# 🌐 Connect With Me
 
-- Artificial Intelligence
-- Generative AI
-- Agentic AI
-- MERN Stack Development
-- AI Automation
-- Scalable Applications
-
-
----
-
-# 🌐 Connect 
-
-
-LinkedIn:  
-https://www.linkedin.com/in/maryam-amjad-3a235a315/
-
-
-Portfolio:  
+💼 **Portfolio**  
 https://maryam-amjad-portfolio.vercel.app/
 
+💼 **LinkedIn**  
+https://www.linkedin.com/in/maryam-amjad-3a235a315/
 
 ---
 
 <div align="center">
 
-### "Building scalable applications and intelligent AI-powered solutions."
+### ⭐ Building scalable applications and intelligent AI-powered solutions.
+
+Thanks for visiting my profile! Feel free to connect and collaborate. 
 
 </div>
+```
