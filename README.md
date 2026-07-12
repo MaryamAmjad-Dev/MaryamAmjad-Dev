@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Maryam Amjad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Next.js+Developer;AI+Automation+Engineer;Hackathon+Participant;Building+Scalable+AI-Powered+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Next.js+Developer;AI+Automation+Enthusiast;Hackathon+Participant;Building+Scalable+AI-Powered+Applications" />
 
 ### MERN Stack Developer • Next.js Developer • AI Automation Engineer
 
