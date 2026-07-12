@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👋 Hi, I'm Maryam Amjad
@@ -331,4 +330,4 @@ https://www.linkedin.com/in/maryam-amjad-3a235a315/
 Thanks for visiting my profile! Feel free to connect and collaborate. 
 
 </div>
-```
+
