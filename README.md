@@ -281,15 +281,6 @@ Next.js • React • TypeScript • Tailwind CSS
 
 ---
 
-# 🏆 GitHub Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaryamAmjad-Dev&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
