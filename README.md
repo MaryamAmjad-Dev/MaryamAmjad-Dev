@@ -271,17 +271,6 @@ Next.js • React • TypeScript • Tailwind CSS
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MaryamAmjad-Dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
 # 📈 Contribution Graph
 
 <p align="center">
