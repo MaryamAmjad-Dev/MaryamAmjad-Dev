@@ -59,6 +59,12 @@ Strong experience in designing modern frontend interfaces, developing secure bac
 - 🤖 AMD Developer Hackathon ACT II (lablab.ai)
 - 🌐 UNESCO Youth Hackathon
 
+### 🇵🇰 National Hackathons
+
+- 🏆 The HEC Generative AI Cohort-2 Hackathon 2026
+- 🏆 The HEC Generative AI Cohort-3 Hackathon 2026
+- 🚀 DevLaunch Hackathon 2026
+
 ## 👥 Leadership
 
 - Led teams in **2 National AI Hackathons**
