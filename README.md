@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Maryam Amjad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Next.js+Developer;AI+Automation+Enthusiast;Hackathon+Participant;Building+Scalable+AI-Powered+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;AI+%26+Agentic+Systems+Enthusiast;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Automation" />
 
-### MERN Stack Developer • Next.js Developer • AI Automation Enthusiast
+### MERN Stack Developer • AI Automation & Agentic Systems • Next.js Developer
 
 <p>
-Building scalable full-stack applications powered by Artificial Intelligence, modern web technologies, and intuitive user experiences.
+Building scalable, AI-powered full-stack applications, with a growing focus on agentic AI systems and intelligent automation.
 </p>
 
 </div>
@@ -16,9 +16,7 @@ Building scalable full-stack applications powered by Artificial Intelligence, mo
 
 # 👩‍💻 Professional Summary
 
-Passionate **MERN Stack Developer** with expertise in building scalable, production-ready, and AI-powered web applications.
-
-Strong experience in designing modern frontend interfaces, developing secure backend APIs, integrating AI services, and deploying full-stack applications.
+MERN Stack Developer with hands-on experience building AI-integrated, production-ready web applications. My current focus is shifting toward **AI automation and agentic systems**, designing software agents that reason, adapt, and act reliably rather than following rigid, hard-coded logic.
 
 ### Core Technologies
 
@@ -26,11 +24,10 @@ Strong experience in designing modern frontend interfaces, developing secure bac
 
 ### Current Focus
 
-- 🤖 Generative AI Applications
 - 🧠 Agentic AI Systems
-- ⚡ AI Automation
+- 🤖 LLM-Powered Automation
+- ⚡ Generative AI Applications
 - 🌐 Intelligent Web Platforms
-- 🚀 Performance Optimization
 
 ---
 
@@ -38,282 +35,139 @@ Strong experience in designing modern frontend interfaces, developing secure bac
 
 ### Government College University Faisalabad (GCUF)
 
-**Bachelor of Science in Information Technology (BSIT)**  
+**Bachelor of Science in Information Technology (BSIT)**
 
-- 🥇 Final Year Project secured **1st Position**
-- 🤖 Built **AI Feature Kit**, an AI-powered multi-tool platform
-- 📚 Focused on AI, Software Engineering, Full-Stack Development, Databases, and Cloud Computing
-
----
-
-# 🏆 Achievements
-
-## 🥇 Academic
-
-- Final Year Project — **1st Position**
-- Built **AI Feature Kit**, an AI-powered productivity platform
-
-## 🌍 International Hackathons
-
-- 🏆 CodeSprint LA — Ranked **25th among 137 Teams**
-- 🤖 AMD Developer Hackathon ACT II (lablab.ai)
-- 🌐 UNESCO Youth Hackathon
-
-### 🇵🇰 National Hackathons
-
-- 🏆 The HEC Generative AI Cohort-2 Hackathon 2026
-- 🏆 The HEC Generative AI Cohort-3 Hackathon 2026
-- 🚀 DevLaunch Hackathon 2026
-
-## 👥 Leadership
-
-- Led teams in **2 National AI Hackathons**
-- Participated in **6+ Hackathons**
-
-## 🌱 Community
-
-- Built a LinkedIn community of **4,000+ professionals**
-- Regularly share content on AI, Web Development, and Career Growth
+- 🥇 Final Year Project, **1st Position** (entire batch)
+- 🤖 Built **AI Feature Kit**, a modular AI-powered multi-tool platform
+- 📚 Focus areas: AI, Software Engineering, Full-Stack Development, Databases, Cloud Computing
 
 ---
 
-# 🚀 Featured Projects
+# 🔬 Featured AI & Automation Projects
 
-## 🥇 AI Feature Kit — AI Powered Multi Tool Platform
+## 🤖 Autovance AI: LLM-Powered Business Automation
 
-🏆 **Final Year Project — 1st Position**
+An LLM-powered (Groq / Llama 3.3) automation platform that helps businesses automate workflows in **English and Urdu**.
 
-AI Feature Kit is a modular AI ecosystem that combines multiple AI tools into one seamless platform.
+**Focus:** Reliable, context-aware agent behaviour, moving beyond simple prompting toward more structured, dependable automation.
 
-### Features
-
-- 🎨 Text-to-Image Generation
-- 🔊 Text-to-Speech
-- 🎙 Voice Changer
-- 📝 AI Text Summarization
-- 🖼 Background Removal
-- ⚡ Modular AI Architecture
-
-### Tech Stack
-
-React.js • Node.js • Express.js • REST APIs • AI APIs
+**Tech Stack:** MERN Stack • Groq/Llama 3.3 API • Prompt Engineering
 
 ---
 
-## 🦋 MIRA AI by Maryam — Personal Growth Assistant
+## 🥇 AI Feature Kit: Final Year Project (1st Position)
 
-An AI-powered MERN application designed to improve emotional well-being, productivity, and self-growth through intelligent insights.
+A modular AI ecosystem combining multiple AI tools into a single platform.
 
-### Features
+**Features:** Text-to-Image • Text-to-Speech • Voice Changer • AI Summarization • Background Removal
 
-- 🤖 AI Wellness Coach
-- 📔 Smart Mood Journal
-- 🌱 Habit Tracking
-- 🎯 Goal Management
-- 📊 Analytics Dashboard
-- 🌍 Multi-language Support
-- 🔐 JWT Authentication
-- 🌓 Dark / Light Theme
-- 📱 Fully Responsive Design
-
-### Tech Stack
-
-React.js • Vite • Node.js • Express.js • MongoDB • Mongoose • JWT • REST APIs • AI Integration
+**Tech Stack:** React.js • Node.js • Express.js • AI APIs
 
 ---
 
 ## 🚀 AMD ZeroToken Hybrid AI Router
 
-🏆 Developed for **AMD Developer Hackathon ACT II (lablab.ai)**
+Built for the **AMD Developer Hackathon: ACT II** (Team Shaheen).
 
-An intelligent AI routing platform that minimizes inference costs by automatically selecting between local and cloud AI models.
+An intelligent AI routing platform minimizing inference cost by dynamically selecting between local and cloud AI models.
 
-### Features
+**Features:** Hybrid AI Routing • Five-Layer Decision Pipeline • Token Savings Analytics
 
-- 🧠 Hybrid AI Routing
-- ⚡ ZeroToken Optimization
-- 🔍 Five-Layer Decision Pipeline
-- 🤖 Local + Cloud Model Selection
-- 📊 Token Savings Analytics
-- 💬 Interactive AI Console
-- 🎨 Modern Glassmorphism UI
-
-### Tech Stack
-
-Next.js • React • TypeScript • Tailwind CSS • FastAPI • Framer Motion • Machine Learning
+**Tech Stack:** Next.js • React • TypeScript • FastAPI • Machine Learning
 
 ---
 
-## 🤖 HireGen AI — AI Recruitment Platform
+## 🤖 HireGen AI: AI Recruitment Platform
 
-Built during the **HEC Generative AI Cohort-2 Hackathon 2026**.
+Built during **CodeSprint LA** (ranked 25th of 137 teams).
 
-### Features
+**Features:** AI Interview Generation • Candidate Evaluation • Automated Scoring • Recruitment Analytics
 
-- AI Interview Generation
-- Candidate Evaluation
-- Automated Scoring
-- Recruitment Analytics
-
-### Tech Stack
-
-MERN Stack • AI Automation
+**Tech Stack:** MERN Stack • AI Automation
 
 ---
 
-## 🌐 Maryam Amjad Portfolio
+# 🚀 Other Projects
 
-A modern AI-inspired developer portfolio showcasing projects, achievements, hackathons, and technical expertise.
+## 🦋 MIRA AI, Personal Growth Assistant
 
-### Features
+An AI-powered MERN application supporting emotional well-being and productivity through intelligent insights, mood journaling, and habit tracking.
 
-- 🤖 Gemini AI Assistant
-- 🌍 Multi-language Support
-- 🎨 Glassmorphism UI
-- ✨ Interactive Animations
-- 🖱 Mouse Tracking & Cursor Effects
-- 📄 Resume Download
-- 📬 Contact Integration
-
-### Tech Stack
-
-Next.js • React • TypeScript • Tailwind CSS • Gemini API • Vercel
+**Tech Stack:** React.js • Vite • Node.js • Express.js • MongoDB • JWT • AI Integration
 
 ---
 
 ## 🌐 Driving Web Forms System
 
-Production-ready form management system built using Next.js.
+Production-ready booking and contact form system with full MongoDB Atlas integration, built for a freelance client (MSA Driving School).
 
-### Features
-
-- Contact Forms
-- Booking Workflow
-- Serverless APIs
-- MongoDB Atlas Integration
-- Validation System
-- Toast Notifications
-
-### Tech Stack
-
-Next.js 16 • MongoDB Atlas • Tailwind CSS
+**Tech Stack:** Next.js • MongoDB Atlas • Tailwind CSS
 
 ---
 
-## 💼 MatchHalf Internship Project
+## 💼 MatchHalf, Internship Contributions
 
-Contributed to a production-level social networking platform.
+Contributed to a production-level social networking platform: reusable components, skeleton loaders, state persistence, responsive UI, and performance optimization.
 
-### Contributions
+**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS
 
-- Reusable Components
-- Skeleton Loaders
-- State Persistence
-- Responsive UI
-- Performance Optimization
+---
 
-### Tech Stack
+# 🏆 Hackathon Experience
 
-Next.js • React • TypeScript • Tailwind CSS
+**5× Hackathon Participant • 2× Hackathon Team Lead** (National & International)
+
+| Hackathon | Role | Result |
+|---|---|---|
+| AMD Developer Hackathon: ACT II | Team Shaheen | In Progress |
+| UNESCO Youth Hackathon 2026 | Participant | Registered |
+| CodeSprint LA | Participant | 25th of 137 Teams |
+| HEC GenAI Cohort 2 | **Team Lead** | Completed |
+| HEC GenAI Cohort 3 | **Team Lead** | Completed |
+| Dev Launch Hackathon | Participant | Completed |
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
-
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Backend
-
-- Node.js
-- Express.js
-- Python
-- REST APIs
-- JWT Authentication
-
-### Database
-
-- MongoDB
-- Mongoose
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- Cursor
-- VS Code
-- Vercel
-- Render
-- Figma
-
-### AI Technologies
-
-- Gemini API
-- AI APIs
-- AI Automation
-- Agentic AI
-- Generative AI
-- Prompt Engineering
+**Frontend:** React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3
+**Backend:** Node.js • Express.js • Python • REST APIs • JWT Authentication
+**Database:** MongoDB • Mongoose • MySQL
+**AI:** Groq/Llama API • Gemini API • Prompt Engineering • Agentic AI • Generative AI
+**Tools:** Git • GitHub • VS Code • Vercel • Render • Figma
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 📈 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-Dev&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
 # 🔬 Areas of Interest
 
-- 🤖 Artificial Intelligence
-- 🧠 Generative AI
-- ⚡ Agentic AI
+- 🧠 Agentic AI Systems
+- 🤖 LLM-Powered Automation
+- ⚡ Generative AI
 - 🌐 Full-Stack Development
-- 🚀 AI Automation
 - ☁ Cloud Computing
-- 📈 Scalable Systems
 
 ---
 
 # 🌐 Connect With Me
 
-💼 **Portfolio**  
-https://maryam-amjad-portfolio.vercel.app/
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/maryam-amjad-3a235a315/
-
----
+💼 **Portfolio:** https://maryam-amjad-portfolio.vercel.app/
+💼 **LinkedIn:** https://www.linkedin.com/in/maryam-amjad-3a235a315/
 
 <div align="center">
 
-### ⭐ Building scalable applications and intelligent AI-powered solutions.
-
-Thanks for visiting my profile! Feel free to connect and collaborate. 
+### ⭐ Building intelligent, reliable AI-powered systems, one agent at a time.
 
 </div>
-
