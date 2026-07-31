@@ -62,16 +62,6 @@ A modular AI ecosystem combining multiple AI tools into a single platform.
 
 ---
 
-## Autovance AI: LLM-Powered Business Automation
-
-An LLM-powered (Groq / Llama 3.3) automation platform that helps businesses automate workflows in **English and Urdu**.
-
-**Focus:** Reliable, context-aware agent behaviour, moving beyond simple prompting toward more structured, dependable automation.
-
-**Tech Stack:** MERN Stack • Groq/Llama 3.3 API • Prompt Engineering
-
----
-
 
 ## AMD ZeroToken Hybrid AI Router
 
@@ -81,7 +71,27 @@ An intelligent AI routing platform minimizing inference cost by dynamically sele
 
 **Features:** Hybrid AI Routing • Five-Layer Decision Pipeline • Token Savings Analytics
 
-**Tech Stack:** Next.js • React • TypeScript • FastAPI • Machine Learning
+**Tech Stack:** • Python • Machine Learning • Next.js • React • TypeScript • FastAPI 
+
+---
+
+## VeriVoice: Real-Time Voice Claims Verification Dashboard
+
+Built for the UNESCO Youth Hackathon 2026. A live dashboard that ingests voice-based claims, displays translated text, and shows a real-time verdict, helping surface and verify misinformation as it spreads. **(In Progress)**
+
+**Features:** Live Claims Dashboard • Real-Time Translation Display • Verdict Feed • Mobile-Responsive UI • Real-Time Updates via Polling/WebSockets
+
+**Tech Stack:** Python FastAPI • Next.js (App Router) • Tailwind CSS • MongoDB Atlas • Mongoose 
+
+---
+
+## Autovance AI: LLM-Powered Business Automation
+
+An LLM-powered (Groq / Llama 3.3) automation platform that helps businesses automate workflows in **English and Urdu**.
+
+**Focus:** Reliable, context-aware agent behaviour, moving beyond simple prompting toward more structured, dependable automation.
+
+**Tech Stack:** MERN Stack • Groq/Llama 3.3 API • Prompt Engineering
 
 ---
 
@@ -146,10 +156,11 @@ Contributed to a production-level social networking platform: reusable component
 # Tech Stack
 
 **Frontend:** React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3
-**Backend:** Node.js • Express.js • Python • REST APIs • JWT Authentication
+**Backend:**  Python • Node.js • Express.js • REST APIs • JWT Authentication
 **Database:** MongoDB • Mongoose • MySQL
-**AI:** Groq/Llama API • Gemini API • Prompt Engineering • Agentic AI • Generative AI
-**Tools:** Git • GitHub • VS Code • Vercel • Render • Figma
+**AI:** Agentic AI • Generative AI • Prompt Engineering 
+**APIs:** Groq/Llama API • Gemini API • Hugging Face API • remove.bg API
+**Tools:** Git • GitHub • Google Antigravity • Cursor • VS Code • Vercel • Render • Figma
 
 ---
 
