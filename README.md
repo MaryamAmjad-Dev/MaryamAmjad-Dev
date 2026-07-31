@@ -75,13 +75,13 @@ An intelligent AI routing platform minimizing inference cost by dynamically sele
 
 ---
 
-## VeriVoice: Real-Time Voice Claims Verification Dashboard
+## VeriVoice: AI-Powered Multi-Agent Voice Fact Verification Platform
 
-Built for the UNESCO Youth Hackathon 2026. A live dashboard that ingests voice-based claims, displays translated text, and shows a real-time verdict, helping surface and verify misinformation as it spreads. **(In Progress)**
+Built for the UNESCO Youth Hackathon 2026. A multilingual AI platform that leverages a collaborative multi-agent workflow for speech analysis, fact verification, trusted evidence retrieval, and explainable AI reporting. **(In Progress)**
 
-**Features:** Live Claims Dashboard • Real-Time Translation Display • Verdict Feed • Mobile-Responsive UI • Real-Time Updates via Polling/WebSockets
+**Features:** Voice Upload & Recording • AI Speech Transcription • Multi-Agent Workflow • Fact Verification • Trusted Evidence Retrieval • Explainable AI Reports • Responsive UI
 
-**Tech Stack:** Python FastAPI • Next.js (App Router) • Tailwind CSS • MongoDB Atlas • Mongoose 
+**Tech Stack:** Python FastAPI • Next.js 16 • React 19 • TypeScript • Tailwind CSS  • Google Gemini API • MongoDB Atlas
 
 ---
 
