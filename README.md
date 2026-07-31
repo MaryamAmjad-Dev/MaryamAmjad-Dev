@@ -49,6 +49,9 @@ MERN Stack Developer with hands-on experience building AI-integrated, production
 
 ---
 
+
+# Featured AI & Automation Projects
+
 ## AI Feature Kit: Final Year Project (1st Position)
 
 A modular AI ecosystem combining multiple AI tools into a single platform.
@@ -58,8 +61,6 @@ A modular AI ecosystem combining multiple AI tools into a single platform.
 **Tech Stack:** React.js • Node.js • Express.js • AI APIs
 
 ---
-
-# Featured AI & Automation Projects
 
 ## Autovance AI: LLM-Powered Business Automation
 
