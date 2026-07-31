@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Maryam Amjad
+# Hi, I'm Maryam Amjad
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;AI+%26+Agentic+Systems+Enthusiast;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Automation" />
 
@@ -10,13 +10,19 @@
 Building scalable, AI-powered full-stack applications, with a growing focus on agentic AI systems and intelligent automation.
 </p>
 
+<p>
+<strong>Research interest:</strong> reliable and explainable agent behaviour in LLM-based automation systems.
+</p>
+
 </div>
 
 ---
 
-# 👩‍💻 Professional Summary
+# Professional Summary
 
 MERN Stack Developer with hands-on experience building AI-integrated, production-ready web applications. My current focus is shifting toward **AI automation and agentic systems**, designing software agents that reason, adapt, and act reliably rather than following rigid, hard-coded logic.
+
+**Research Interest:** Reliable and explainable agent behaviour in LLM-based systems, particularly how agents can reason about context and intent rather than relying purely on prompting.
 
 ### Core Technologies
 
@@ -24,38 +30,29 @@ MERN Stack Developer with hands-on experience building AI-integrated, production
 
 ### Current Focus
 
-- 🧠 Agentic AI Systems
-- 🤖 LLM-Powered Automation
-- ⚡ Generative AI Applications
-- 🌐 Intelligent Web Platforms
+- Agentic AI Systems
+- LLM-Powered Automation
+- Generative AI Applications
+- Intelligent Web Platforms
 
 ---
 
-# 🎓 Education
+# Education
 
 ### Government College University Faisalabad (GCUF)
 
 **Bachelor of Science in Information Technology (BSIT)**
 
-- 🥇 Final Year Project, **1st Position** (entire batch)
-- 🤖 Built **AI Feature Kit**, a modular AI-powered multi-tool platform
-- 📚 Focus areas: AI, Software Engineering, Full-Stack Development, Databases, Cloud Computing
+- Final Year Project, **1st Position** (entire batch)
+- Built **AI Feature Kit**, a modular AI-powered multi-tool platform
+- Focus areas: AI, Software Engineering, Full-Stack Development, Databases, Cloud Computing
 
 ---
 
-# 🔬 Featured AI & Automation Projects
+# Featured AI & Automation Projects
 
-## 🤖 Autovance AI: LLM-Powered Business Automation
 
-An LLM-powered (Groq / Llama 3.3) automation platform that helps businesses automate workflows in **English and Urdu**.
-
-**Focus:** Reliable, context-aware agent behaviour, moving beyond simple prompting toward more structured, dependable automation.
-
-**Tech Stack:** MERN Stack • Groq/Llama 3.3 API • Prompt Engineering
-
----
-
-## 🥇 AI Feature Kit: Final Year Project (1st Position)
+## AI Feature Kit: Final Year Project (1st Position)
 
 A modular AI ecosystem combining multiple AI tools into a single platform.
 
@@ -65,7 +62,19 @@ A modular AI ecosystem combining multiple AI tools into a single platform.
 
 ---
 
-## 🚀 AMD ZeroToken Hybrid AI Router
+
+## Autovance AI: LLM-Powered Business Automation
+
+An LLM-powered (Groq / Llama 3.3) automation platform that helps businesses automate workflows in **English and Urdu**.
+
+**Focus:** Reliable, context-aware agent behaviour, moving beyond simple prompting toward more structured, dependable automation.
+
+**Tech Stack:** MERN Stack • Groq/Llama 3.3 API • Prompt Engineering
+
+---
+
+
+## AMD ZeroToken Hybrid AI Router
 
 Built for the **AMD Developer Hackathon: ACT II** (Team Shaheen).
 
@@ -73,11 +82,11 @@ An intelligent AI routing platform minimizing inference cost by dynamically sele
 
 **Features:** Hybrid AI Routing • Five-Layer Decision Pipeline • Token Savings Analytics
 
-**Tech Stack:** Next.js • React • TypeScript • FastAPI • Machine Learning
+**Tech Stack:** Next.js • React • TypeScript • FastAPI • Machine Learning • Python
 
 ---
 
-## 🤖 HireGen AI: AI Recruitment Platform
+## HireGen AI: AI Recruitment Platform
 
 Built during **CodeSprint LA** (ranked 25th of 137 teams).
 
@@ -87,9 +96,9 @@ Built during **CodeSprint LA** (ranked 25th of 137 teams).
 
 ---
 
-# 🚀 Other Projects
+# Other Projects
 
-## 🦋 MIRA AI, Personal Growth Assistant
+## MIRA AI: Personal Growth Assistant
 
 An AI-powered MERN application supporting emotional well-being and productivity through intelligent insights, mood journaling, and habit tracking.
 
@@ -97,7 +106,7 @@ An AI-powered MERN application supporting emotional well-being and productivity 
 
 ---
 
-## 🌐 Driving Web Forms System
+## Driving Web Forms System
 
 Production-ready booking and contact form system with full MongoDB Atlas integration, built for a freelance client (MSA Driving School).
 
@@ -105,7 +114,7 @@ Production-ready booking and contact form system with full MongoDB Atlas integra
 
 ---
 
-## 💼 MatchHalf, Internship Contributions
+## MatchHalf: Internship Contributions
 
 Contributed to a production-level social networking platform: reusable components, skeleton loaders, state persistence, responsive UI, and performance optimization.
 
@@ -113,7 +122,7 @@ Contributed to a production-level social networking platform: reusable component
 
 ---
 
-# 🏆 Hackathon Experience
+# Hackathon Experience
 
 **5× Hackathon Participant • 2× Hackathon Team Lead** (National & International)
 
@@ -128,7 +137,7 @@ Contributed to a production-level social networking platform: reusable component
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 **Frontend:** React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3
 **Backend:** Node.js • Express.js • Python • REST APIs • JWT Authentication
@@ -138,7 +147,7 @@ Contributed to a production-level social networking platform: reusable component
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -151,23 +160,23 @@ Contributed to a production-level social networking platform: reusable component
 
 ---
 
-# 🔬 Areas of Interest
+# Areas of Interest
 
-- 🧠 Agentic AI Systems
-- 🤖 LLM-Powered Automation
-- ⚡ Generative AI
-- 🌐 Full-Stack Development
-- ☁ Cloud Computing
+- Agentic AI Systems
+- LLM-Powered Automation
+- Generative AI
+- Full-Stack Development
+- Cloud Computing
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
-💼 **Portfolio:** https://maryam-amjad-portfolio.vercel.app/
-💼 **LinkedIn:** https://www.linkedin.com/in/maryam-amjad-3a235a315/
+**Portfolio:** https://maryam-amjad-portfolio.vercel.app/
+**LinkedIn:** https://www.linkedin.com/in/maryam-amjad-3a235a315/
 
 <div align="center">
 
-### ⭐ Building intelligent, reliable AI-powered systems, one agent at a time.
+### Building intelligent, reliable AI-powered systems, one agent at a time.
 
 </div>
