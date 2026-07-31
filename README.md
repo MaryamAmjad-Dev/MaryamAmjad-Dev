@@ -77,7 +77,7 @@ An intelligent AI routing platform minimizing inference cost by dynamically sele
 
 ## VeriVoice: AI-Powered Multi-Agent Voice Fact Verification Platform
 
-Built for the UNESCO Youth Hackathon 2026. A multilingual AI platform that leverages a collaborative multi-agent workflow for speech analysis, fact verification, trusted evidence retrieval, and explainable AI reporting. **(In Progress)**
+Built for the **UNESCO Youth Hackathon 2026**. A multilingual AI platform that leverages a collaborative multi-agent workflow for speech analysis, fact verification, trusted evidence retrieval, and explainable AI reporting. **(In Progress)**
 
 **Features:** Voice Upload & Recording • AI Speech Transcription • Multi-Agent Workflow • Fact Verification • Trusted Evidence Retrieval • Explainable AI Reports • Responsive UI
 
