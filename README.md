@@ -155,12 +155,12 @@ Contributed to a production-level social networking platform: reusable component
 
 ## Tech Stack
 
-**Frontend:** React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3
-**Backend:** Python • Node.js • Express.js • REST APIs • JWT Authentication
-**Database:** MongoDB • Mongoose • MySQL
-**AI:** Agentic AI • Generative AI • Prompt Engineering
-**APIs:** Groq/Llama API • Gemini API • Hugging Face API • remove.bg API
-**Tools:** Git • GitHub • Google Antigravity • Cursor • VS Code • Vercel • Render • Figma
+**Frontend:** React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3 <br>
+**Backend:** Python • Node.js • Express.js • REST APIs • JWT Authentication <br>
+**Database:** MongoDB • Mongoose • MySQL <br>
+**AI:** Agentic AI • Generative AI • Prompt Engineering <br>
+**APIs:** Groq/Llama API • Gemini API • Hugging Face API • remove.bg API <br>
+**Tools:** Git • GitHub • Google Antigravity • Cursor • VS Code • Vercel • Render • Figma <br>
 
 ---
 
