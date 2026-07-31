@@ -71,7 +71,7 @@ An intelligent AI routing platform minimizing inference cost by dynamically sele
 
 **Features:** Hybrid AI Routing • Five-Layer Decision Pipeline • Token Savings Analytics
 
-**Tech Stack:** • Python • Machine Learning • Next.js • React • TypeScript • FastAPI 
+**Tech Stack:** Python • Machine Learning • Next.js • React • TypeScript • FastAPI 
 
 ---
 
