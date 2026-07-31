@@ -49,9 +49,6 @@ MERN Stack Developer with hands-on experience building AI-integrated, production
 
 ---
 
-# Featured AI & Automation Projects
-
-
 ## AI Feature Kit: Final Year Project (1st Position)
 
 A modular AI ecosystem combining multiple AI tools into a single platform.
@@ -62,6 +59,7 @@ A modular AI ecosystem combining multiple AI tools into a single platform.
 
 ---
 
+# Featured AI & Automation Projects
 
 ## Autovance AI: LLM-Powered Business Automation
 
@@ -82,7 +80,7 @@ An intelligent AI routing platform minimizing inference cost by dynamically sele
 
 **Features:** Hybrid AI Routing • Five-Layer Decision Pipeline • Token Savings Analytics
 
-**Tech Stack:** Next.js • React • TypeScript • FastAPI • Machine Learning • Python
+**Tech Stack:** Next.js • React • TypeScript • FastAPI • Machine Learning
 
 ---
 
@@ -126,11 +124,18 @@ Contributed to a production-level social networking platform: reusable component
 
 **5× Hackathon Participant • 2× Hackathon Team Lead** (National & International)
 
+### International Hackathons
+
 | Hackathon | Role | Result |
 |---|---|---|
-| AMD Developer Hackathon: ACT II | Team Shaheen | In Progress |
-| UNESCO Youth Hackathon 2026 | Participant | Registered |
+| AMD Developer Hackathon: ACT II (lablab.ai) | Team Shaheen | Completed |
+| UNESCO Youth Hackathon 2026 | Participant | In Progress |
 | CodeSprint LA | Participant | 25th of 137 Teams |
+
+### National Hackathons
+
+| Hackathon | Role | Result |
+|---|---|---|
 | HEC GenAI Cohort 2 | **Team Lead** | Completed |
 | HEC GenAI Cohort 3 | **Team Lead** | Completed |
 | Dev Launch Hackathon | Participant | Completed |
@@ -173,6 +178,7 @@ Contributed to a production-level social networking platform: reusable component
 # Connect With Me
 
 **Portfolio:** https://maryam-amjad-portfolio.vercel.app/
+
 **LinkedIn:** https://www.linkedin.com/in/maryam-amjad-3a235a315/
 
 <div align="center">
