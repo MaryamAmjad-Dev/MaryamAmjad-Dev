@@ -11,7 +11,7 @@ Building scalable, AI-powered full-stack applications, with a growing focus on a
 </p>
 
 <p>
-<strong>Research interest:</strong> reliable and explainable agent behaviour in LLM-based automation systems.
+<strong>Research interest:</strong> Reliable and Explainable Agent Behaviour in LLM-Based Automation Systems
 </p>
 
 </div>
