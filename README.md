@@ -140,7 +140,7 @@ Contributed to a production-level social networking platform: reusable component
 | Hackathon | Role | Result |
 |---|---|---|
 | AMD Developer Hackathon: ACT II (lablab.ai) | Team Shaheen | Completed |
-| UNESCO Youth Hackathon 2026 | Participant | In Progress |
+| UNESCO Youth Hackathon 2026 | Participant | Completed |
 | CodeSprint LA | Participant | 25th of 137 Teams |
 
 ### National Hackathons
