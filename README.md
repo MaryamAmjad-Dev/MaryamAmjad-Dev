@@ -43,7 +43,7 @@ MERN Stack Developer with hands-on experience building AI-integrated, production
 
 **Bachelor of Science in Information Technology (BSIT)**
 
-- Final Year Project, **1st Position** (entire batch)
+- **Ranked 4th** in the BS class (entire batch)
 - Built **AI Feature Kit**, a modular AI-powered multi-tool platform
 - Focus areas: AI, Software Engineering, Full-Stack Development, Databases, Cloud Computing
 
