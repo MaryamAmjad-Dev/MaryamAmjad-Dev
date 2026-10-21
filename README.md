@@ -3,7 +3,7 @@
 
 # Hi, I'm Maryam Amjad 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Prospective+Graduate+Candidate;Stanford+Code+in+Place+X+Section+Leader;Trainer+%26+Moderator+%40+iCodeGuru;Aspire+Leaders+Program+Alumna;University+Guest+Speaker+%26+Moderator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Prospective+Graduate+Candidate;Stanford+Code+in+Place+X+Section+Leader;Trainer+%26+Moderator+%40+iCodeGuru(Us);Aspire+Leaders+Program+Alumna;University+Guest+Speaker+%26+Moderator" alt="Typing SVG" />
 
 
 ### 🎓 Prospective Graduate Candidate
