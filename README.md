@@ -30,7 +30,7 @@ I am a BS Information Technology graduate from **Government College University F
 - 👩‍🏫 **Teaching & Leadership:** Section Leader at Stanford Code in Place X and Trainer, Guest Speaker, and Moderator at iCodeGuru.
 - 🌍 **Community:** Aspire Leaders Program alumna, Cohort 3 (2026).
 - 💻 **Development:** Experience building AI-powered applications, multilingual tools, and full-stack web platforms.
-- 🏆 **Hackathons:** Participated in 8 hackathons and led 3 teams, including two HEC Generative AI cohorts.
+- 🏆 **Hackathons:** Participated in 8 National & International hackathons and led 3 teams, including two HEC Generative AI cohorts.
 
 ## 🔬 Research Interests
 
