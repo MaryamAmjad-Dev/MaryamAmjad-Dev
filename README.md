@@ -1,200 +1,331 @@
+
 <div align="center">
 
 # Hi, I'm Maryam Amjad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;AI+%26+Agentic+Systems+Enthusiast;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Prospective+Graduate+Candidate;AI+Agents+%26+LLM+Systems;Explainable+%26+Trustworthy+AI;Intelligent+Automation+%26+Full-Stack+Development" />
 
-### MERN Stack Developer • AI Automation & Agentic Systems • Next.js Developer
+### Prospective Graduate Candidate • Agentic AI • LLM-Based Systems
 
 <p>
-Building scalable, AI-powered full-stack applications, with a growing focus on agentic AI systems and intelligent automation.
+Exploring explainable, trustworthy, and verifiable AI agents through intelligent automation, evidence-grounded AI applications, and human-centred system design.
 </p>
 
 <p>
-<strong>Research interest:</strong> Reliable and Explainable Agent Behaviour in LLM-Based Automation Systems
+<strong>Research Interests:</strong> Explainable AI Agents • Agent-Oriented Engineering • Trustworthy AI • Human-Computer Interaction
+</p>
+
+<p>
+<a href="https://maryam-amjad-portfolio.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/maryam-amjad-3a235a315/">LinkedIn</a> •
+<a href="https://github.com/MaryamAmjad-Dev">GitHub</a>
 </p>
 
 </div>
 
 ---
 
-# Professional Summary
+## About Me
 
-MERN Stack Developer with hands-on experience building AI-integrated, production-ready web applications. My current focus is shifting toward **AI automation and agentic systems**, designing software agents that reason, adapt, and act reliably rather than following rigid, hard-coded logic.
+I am a **Prospective Graduate Candidate** with a Bachelor of Science in Information Technology from Government College University Faisalabad (GCUF), graduating with a **CGPA of 3.45/4.00 and ranking 4th in my BS class**.
 
-**Research Interest:** Reliable and explainable agent behaviour in LLM-based systems, particularly how agents can reason about context and intent rather than relying purely on prompting.
+My technical experience spans AI-powered applications, LLM-based workflow automation, full-stack development, software quality assurance, and usability evaluation. I am particularly interested in understanding how AI agents can make reliable decisions, explain their behaviour, and support their outputs with verifiable evidence.
 
-### Core Technologies
+Through hackathons, collaborative development, research-oriented projects, and teaching, I have explored practical approaches to building AI systems that are more transparent, dependable, and useful to people.
 
-**React.js • Next.js • Node.js • Express.js • MongoDB • TypeScript • Tailwind CSS • REST APIs**
+### Academic Profile
 
-### Current Focus
+- **Degree:** BS Information Technology, GCUF (2021–2025)
+- **CGPA:** 3.45/4.00 (135 credit hours)
+- **Class Rank:** 4th by CGPA
+- **Leadership:** Section Leader, Stanford University Code in Place X
+- **Community:** Aspire Leaders Program alumna, Cohort 3 (2026)
+- **Hackathons:** 8 participations and 3 teams led
 
-- Agentic AI Systems
-- LLM-Powered Automation
-- Generative AI Applications
-- Intelligent Web Platforms
+### Research Interests
+
+- Explainable and Trustworthy AI Agents
+- LLM-Based Agents and Agent-Oriented Engineering
+- Multi-Agent Systems and Intelligent Automation
+- Evidence-Grounded Fact Verification
+- Human-Computer Interaction (HCI) and Usability Evaluation
 
 ---
 
-# Education
+## Education
 
 ### Government College University Faisalabad (GCUF)
 
 **Bachelor of Science in Information Technology (BSIT)**
 
-- **Ranked 4th** in the BS class (entire batch)
-- Built **AI Feature Kit**, a modular AI-powered multi-tool platform
-- Focus areas: AI, Software Engineering, Full-Stack Development, Databases, Cloud Computing
+*November 2021 – October 2025*
+
+- Graduated with a CGPA of **3.45/4.00** across 135 credit hours.
+- Ranked **4th in the BS class by CGPA**.
+- Achieved an upward semester GPA trend from 3.24 in Semester 3 to 3.74 in Semester 7.
+- Relevant coursework: Data Structures, Object-Oriented Programming, Databases, Software Engineering, Software Quality Assurance, Human-Computer Interaction, Web Development, Data Mining, and Cyber Security.
 
 ---
 
+## Research Interests & Technical Projects
 
-# Featured AI & Automation Projects
+### 1. VeriVoice — AI-Powered Voice Fact Verification
 
-## AI Feature Kit: Final Year Project (1st Position)
+**UNESCO Youth Hackathon 2026 | Frontend Developer | In Progress**
 
-A modular AI ecosystem combining multiple AI tools into a single platform.
+A multilingual, voice-based misinformation-checking platform designed to provide evidence-backed answers in the user's language.
 
-**Features:** Text-to-Image • Text-to-Speech • Voice Changer • AI Summarization • Background Removal
+- Supports Urdu, Indonesian, Spanish, and English.
+- Integrates speech input, transcription, claim verification, and spoken verdicts.
+- Uses trusted sources, including WHO, CDC, UNICEF, NASA, and NOAA.
+- Includes a citation validator designed to block hallucinated links.
+- Built an audio visualizer, hands-free voice mode, Evidence Drawer, and multilingual user interface.
+- Achieved **170 passing tests**, as documented in the project materials.
 
-**Tech Stack:** React.js • Node.js • Express.js • AI APIs
+**Technology Stack:** React, Vite, TypeScript, Tailwind CSS, Groq, Whisper, Llama 3.3 70B, Zod, Edge Neural TTS, Discord.js, Jest.
 
----
-
-
-## AMD ZeroToken Hybrid AI Router
-
-Built for the **AMD Developer Hackathon: ACT II** (Team Shaheen).
-
-An intelligent AI routing platform minimizing inference cost by dynamically selecting between local and cloud AI models.
-
-**Features:** Hybrid AI Routing • Five-Layer Decision Pipeline • Token Savings Analytics
-
-**Tech Stack:** Python • Machine Learning • Next.js • React • TypeScript • FastAPI 
+**Research Alignment:** Evidence-grounded AI, explainability, trustworthy outputs, multilingual interaction, and verification.
 
 ---
 
-## VeriVoice: AI-Powered Multi-Agent Voice Fact Verification Platform
+### 2. AMD ZeroToken — Hybrid AI Router
 
-Built for the **UNESCO Youth Hackathon 2026**. A multilingual AI platform that leverages a collaborative multi-agent workflow for speech analysis, fact verification, trusted evidence retrieval, and explainable AI reporting. **(In Progress)**
+**AMD Developer Hackathon: ACT II | Team Shaheen**
 
-**Features:** Voice Upload & Recording • AI Speech Transcription • Multi-Agent Workflow • Fact Verification • Trusted Evidence Retrieval • Explainable AI Reports • Responsive UI
+A cost-optimised AI routing system designed for constrained hardware environments with 4 GB RAM, two vCPUs, and no GPU.
 
-**Tech Stack:** Python FastAPI • Next.js 16 • React 19 • TypeScript • Tailwind CSS  • Google Gemini API • MongoDB Atlas
+- Routes simple tasks to a local 3B-parameter model with zero cloud-token usage.
+- Uses an approximately 80% accuracy gate to help determine when cloud escalation is needed.
+- Escalates failed validation or complex tasks to cloud models.
+- Applies prompt pruning to reduce cloud-token consumption by **10–30%**.
 
----
+**Technology Stack:** Python, Docker, llama.cpp, Qwen 2.5 3B (GGUF), Fireworks API, Next.js, Tailwind CSS.
 
-## Autovance AI: LLM-Powered Business Automation
-
-An LLM-powered (Groq / Llama 3.3) automation platform that helps businesses automate workflows in **English and Urdu**.
-
-**Focus:** Reliable, context-aware agent behaviour, moving beyond simple prompting toward more structured, dependable automation.
-
-**Tech Stack:** MERN Stack • Groq/Llama 3.3 API • Prompt Engineering
+**Research Alignment:** Resource-efficient AI, validation-gated routing, agent reliability, and cost-aware inference.
 
 ---
 
-## HireGen AI: AI Recruitment Platform
+### 3. Autovance AI — Bilingual Workflow Automation
 
-Built during **CodeSprint LA** (ranked 25th of 137 teams).
+**HEC Generative AI Cohort 3 | Team Lead**
 
-**Features:** AI Interview Generation • Candidate Evaluation • Automated Scoring • Recruitment Analytics
+A bilingual AI workflow automation platform supporting business processes in English and Urdu.
 
-**Tech Stack:** MERN Stack • AI Automation
+- Developed AI-assisted email drafting with real email delivery.
+- Implemented a webhook proxy with SSRF protections.
+- Integrated scheduled jobs and execution history.
+- Built custom forms with server-side validation.
+- Developed an explainable workflow builder.
+- Delivered four tools and a research prototype.
+- Recorded **49/49 passing live smoke tests** in the project materials.
 
----
+**Technology Stack:** Next.js, Node.js, PostgreSQL, OpenRouter, Vercel.
 
-# Other Projects
-
-## MIRA AI: Personal Growth Assistant
-
-An AI-powered MERN application supporting emotional well-being and productivity through intelligent insights, mood journaling, and habit tracking.
-
-**Tech Stack:** React.js • Vite • Node.js • Express.js • MongoDB • JWT • AI Integration
-
----
-
-## Driving Web Forms System
-
-Production-ready booking and contact form system with full MongoDB Atlas integration, built for a freelance client (MSA Driving School).
-
-**Tech Stack:** Next.js • MongoDB Atlas • Tailwind CSS
+**Research Alignment:** Agentic workflow design, dependable automation, validation, and explainable AI-assisted processes.
 
 ---
 
-## MatchHalf: Internship Contributions
+### 4. AI Feature Kit — Final Year Project
 
-Contributed to a production-level social networking platform: reusable components, skeleton loaders, state persistence, responsive UI, and performance optimization.
+A modular AI-powered web application bringing multiple AI tools together in one platform.
 
-**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS
+**Features:**
+- Text-to-image generation
+- Text-to-speech conversion
+- Voice conversion
+- Text summarisation
+- Background removal
 
----
+**Technology Stack:** React.js, Node.js, Express.js, MySQL, AI APIs.
 
-# Hackathon Experience
-
-**5× Hackathon Participant • 2× Hackathon Team Lead** (National & International)
-
-### International Hackathons
-
-| Hackathon | Role | Result |
-|---|---|---|
-| AMD Developer Hackathon: ACT II (lablab.ai) | Team Shaheen | Completed |
-| UNESCO Youth Hackathon 2026 | Participant | Completed |
-| CodeSprint LA | Participant | 25th of 137 Teams |
-
-### National Hackathons
-
-| Hackathon | Role | Result |
-|---|---|---|
-| HEC GenAI Cohort 2 | **Team Lead** | Completed |
-| HEC GenAI Cohort 3 | **Team Lead** | Completed |
-| Dev Launch Hackathon | Participant | Completed |
+**Research Alignment:** AI application development, API integration, full-stack engineering, and usability.
 
 ---
 
-## Tech Stack
+### 5. MIRA AI — Personal Growth Assistant
 
-**Frontend:** React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3 <br>
-**Backend:** Python • Node.js • Express.js • REST APIs • JWT Authentication <br>
-**Database:** MongoDB • Mongoose • MySQL <br>
-**AI:** Agentic AI • Generative AI • Prompt Engineering <br>
-**APIs:** Groq/Llama API • Gemini API • Hugging Face API • remove.bg API <br>
-**Tools:** Git • GitHub • Google Antigravity • Cursor • VS Code • Vercel • Render • Figma <br>
+A MERN-based personal growth platform designed to support reflection, productivity, and habit development.
+
+**Features:** Mood journaling, habit tracking, goal analytics, JWT authentication, and Google OAuth login.
+
+**Technology Stack:** React.js, Vite, Node.js, Express.js, MongoDB.
 
 ---
 
-# GitHub Analytics
+### 6. HireGen AI — AI Recruitment Platform
+
+**HEC Generative AI Cohort 2 | Team Lead**
+
+An AI-powered recruitment platform designed to streamline interview preparation and candidate assessment.
+
+**Features:** AI-generated interview questions, candidate scoring, and recruitment support.
+
+**Technology Stack:** MERN Stack, AI integration.
+
+---
+
+### 7. University Website Usability Evaluation
+
+**HCI Academic Project**
+
+Evaluated the University of Lakki Marwat website as part of a Human-Computer Interaction course.
+
+- Conducted a structured usability evaluation.
+- Documented interface and usability observations.
+- Prepared a detailed evaluation report.
+
+**Research Alignment:** Human-centred design, usability assessment, and HCI research.
+
+---
+
+## Research Alignment
+
+My project experience has shaped my interest in developing AI systems whose decisions can be understood, verified, and evaluated.
+
+| Research Area | Relevant Experience |
+|---|---|
+| Explainable AI | VeriVoice Evidence Drawer and explainable workflow builder |
+| Trustworthy AI | Citation validation and evidence-backed verdicts |
+| Agent-Oriented Engineering | AMD ZeroToken routing and Autovance AI |
+| Reliable AI Systems | Validation gates, automated tests, and execution history |
+| Human-Computer Interaction | HCI research report and university website usability evaluation |
+| Efficient AI | Local-model routing and reduced cloud-token consumption |
+
+### Research Paper of Interest
+
+**Contrastive Explanations of BDI Agents**
+
+- **arXiv:** [2602.13323](https://arxiv.org/abs/2602.13323)
+- **Published:** February 2026
+
+I am interested in how contrastive explanations can help users understand not only why an AI agent selected an action, but also why it selected that action instead of an alternative.
+
+A potential direction for my graduate research is exploring **contrastive explanations for LLM-based agents and evaluating their effects on user trust and understanding**.
+
+---
+
+## Professional Experience
+
+### MERN Stack Developer Intern — MatchHalf
+*March 2026 – July 2026*
+
+- Built 10+ features for a production social networking application.
+- Integrated 5+ REST API connections.
+- Resolved 50+ tickets through pull requests.
+- Contributed to reusable components, responsive interfaces, and application improvements.
+
+**Technology Stack:** Next.js, React, TypeScript, Tailwind CSS.
+
+### Technology Job Simulation — Deloitte Australia (Forage)
+*June 2026 – August 2026*
+
+- Analysed client system data to identify faults.
+- Documented findings and potential solutions.
+
+### Technical Content Writing Intern — GAOTek Inc., Canada
+*Remote | July 2025 – October 2025*
+
+- Wrote 15+ SEO-focused technical articles.
+- Delivered assigned articles on time.
+
+---
+
+## Leadership, Teaching & Community Engagement
+
+### Section Leader — Stanford University, Code in Place X
+*Volunteer | October 2026 – Present*
+
+- Selected on the first attempt from more than 1,000 applications.
+- Teaching beginner Python students as part of an international volunteer team spanning 87 countries and approximately 3,500 students.
+
+### Trainer, Guest Speaker & Moderator — iCodeGuru
+*September 2026 – Present*
+
+- Moderated five webinars and spoke at three webinars.
+- Contributed to sessions on Stanford Code in Place X and PAI.
+- Participated in academic and community events involving GCUF, NED, Iqra, KUST, and Ghazi University.
+
+### IELTS Trainer — Volunteer
+*September 2026 – October 2026*
+
+- Delivered IELTS Reading, Writing, and Speaking sessions.
+- Shared preparation techniques and worked through practice examples.
+
+### HCI Research Report & Presentation
+*Independent Volunteer Project*
+
+- Co-authored and presented a report examining procrastination and digital distraction among STEM students.
+
+---
+
+## Achievements & Recognition
+
+- **Stanford Code in Place X:** Selected as a Section Leader on the first attempt from 1,000+ applications.
+- **Aspire Leaders Program:** Graduated from Cohort 3 in 2026.
+- **CodeSprint LA 2026:** Ranked 25th among 137 teams in an international coding competition by ACM at UCLA.
+- **Hackathons:** Participated in eight hackathons and led three teams, including two HEC Generative AI cohorts.
+- **NASA Space Apps Challenge 2026:** Participant.
+- **QuizOff 2026:** Competed among 525,000+ students from 35+ countries.
+
+---
+
+## Technical Skills
+
+**Programming Languages**
+- Python, JavaScript, TypeScript
+
+**Frontend Development**
+- React.js, Next.js, HTML5, CSS3, Tailwind CSS
+
+**Backend Development**
+- Node.js, Express.js, FastAPI, REST APIs, JWT authentication
+
+**Databases**
+- MongoDB, MongoDB Atlas, MySQL, PostgreSQL
+
+**Artificial Intelligence**
+- Agentic AI, Generative AI, LLM application development, multi-agent systems, prompt engineering
+
+**Software Quality & HCI**
+- Software Quality Assurance, manual testing, usability testing, Human-Computer Interaction
+
+**Tools & Deployment**
+- Git, GitHub, VS Code, Cursor, Claude Code, Figma, Vercel, Render
+
+**Additional Skills**
+- Public speaking, training and mentoring, webinar moderation, technical content writing
+
+---
+
+## Training & Certifications
+
+- WPBrigade Web Development Bootcamp — In collaboration with iCodeGuru.
+- Generative AI Mastermind — Outskill, led by Vaibhav Sisinty.
+- Global Youth Development Forum — Sierra Leone Chapter, August 2026.
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Maryam's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-Dev&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-Dev&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-# Areas of Interest
+## Connect With Me
 
-- Agentic AI Systems
-- LLM-Powered Automation
-- Generative AI
-- Full-Stack Development
-- Cloud Computing
-
----
-
-# Connect With Me
-
-**Portfolio:** https://maryam-amjad-portfolio.vercel.app/
-
-**LinkedIn:** https://www.linkedin.com/in/maryam-amjad-3a235a315/
+- **Portfolio:** [maryam-amjad-portfolio.vercel.app](https://maryam-amjad-portfolio.vercel.app/)
+- **LinkedIn:** [Maryam Amjad](https://www.linkedin.com/in/maryam-amjad-3a235a315/)
+- **GitHub:** [MaryamAmjad-Dev](https://github.com/MaryamAmjad-Dev)
 
 <div align="center">
 
-### Building intelligent, reliable AI-powered systems, one agent at a time.
+### Aspiring to advance trustworthy AI through explainability, verification, and human-centred research.
 
 </div>
