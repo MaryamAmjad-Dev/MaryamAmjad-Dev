@@ -50,7 +50,6 @@ I'm a **BS Information Technology graduate from Government College University Fa
 - 🎓 Selected as a **Stanford Code in Place X Section Leader** on the first attempt from 1,000+ applicants.
 - 🚀 Participated in **8 hackathons** and led 3 teams.
 - 🌍 Participated in NASA Space Apps Challenge 2026.
-- 🧠 Participated in QuizOff 2026, an international competition involving 525,000+ students from 35+ countries.
 - 🌱 Aspire Leaders Program alumna, Cohort 3 (2026).
 - 💡 Built AI-powered applications focused on workflow automation, misinformation verification, and cost-efficient AI systems.
 
