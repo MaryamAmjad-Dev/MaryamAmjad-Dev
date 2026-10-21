@@ -5,7 +5,7 @@
 
 ### 🎓 Prospective Graduate Candidate
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Prospective+Graduate+Candidate;Section+Leader+%40+Stanford+CIP+X;Trainer&Moderator+%40+iCodeGuru(US);Aspire+Leaders+Program+Alumna" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Prospective+Graduate+Candidate;Section+Leader+%40+Stanford+CIP+X;Trainer & Moderator+%40+iCodeGuru(US);Aspire+Leaders+Program+Alumna" alt="Typing SVG" />
 
 **SL @ Stanford CIP X | Trainer | Aspire Leaders Program Alumna, Cohort 3 (2026)**
 
