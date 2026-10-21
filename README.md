@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Prospective+Graduate+Candidate;Section+Leader+%40+Stanford+CIP+X;Trainer+at+iCodeGuru;Aspire+Leaders+Program+Alumna;AI+Agents+%26+LLM+Systems;Explainable+%26+Trustworthy+AI" />
 
 <p>
-<strong>SL @ Stanford CIP X | Trainer at iCodeGuru | Aspire Leaders Program Alumna, Cohort 3 (2026)</strong>
+<strong>SL @ Stanford CIP X | Trainer at iCodeGuru, US | Aspire Leaders Program Alumna, Cohort 3 (2026)</strong>
 </p>
 
 <p>
