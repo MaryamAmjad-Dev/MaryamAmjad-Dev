@@ -198,7 +198,7 @@ An academic Human-Computer Interaction (HCI) project.
 - Contributed to **AMD ZeroToken** as part of Team Shaheen.
 - Focused on cost-efficient AI routing and local model execution.
 
-  ### NASA Space Apps Challenge 2026
+### NASA Space Apps Challenge 2026
 - Participated in the international space-focused innovation challenge. (Ongoing)
 
 ### HEC Generative AI Cohort 3
