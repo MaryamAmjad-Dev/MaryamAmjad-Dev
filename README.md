@@ -5,7 +5,7 @@
 
 ### 🎓 Prospective Graduate Candidate
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Prospective+Graduate+Candidate;Section+Leader+%40+Stanford+CIP+X;IELTS+Trainer+%40+iCodeGuru;Aspire+Leaders+Program+Alumna;Agentic+AI+%26+LLM+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Prospective+Graduate+Candidate;Section+Leader+%40+Stanford+CIP+X;Trainer&Moderator+%40+iCodeGuru(US);Aspire+Leaders+Program+Alumna" alt="Typing SVG" />
 
 **SL @ Stanford CIP X | Trainer | Aspire Leaders Program Alumna, Cohort 3 (2026)**
 
@@ -101,6 +101,32 @@ I'm a **BS Information Technology graduate from Government College University Fa
 
 ## 🚀 4. Projects
 
+### 🎨 AI Feature Kit
+**Final Year Project**
+
+A modular web application that brings multiple AI-powered tools together.
+
+- Text-to-image generation.
+- Text-to-speech conversion.
+- Voice effects and conversion.
+- Text summarization.
+- Background removal.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MySQL
+
+### 🤖 Autovance AI
+**HEC Generative AI Cohort 3 | Team Lead**
+
+A bilingual workflow automation platform supporting English and Urdu users.
+
+- Built AI-assisted email drafting and delivery.
+- Implemented scheduled workflows and execution history.
+- Developed custom forms with server-side validation.
+- Created an explainable workflow builder.
+- Achieved 49/49 successful live smoke tests.
+
+**Tech Stack:** Next.js, Node.js, PostgreSQL, OpenRouter, Vercel
+
 ### 🛡️ VeriVoice
 **UNESCO Youth Hackathon 2026**
 
@@ -125,32 +151,6 @@ A cost-optimized AI routing system designed for resource-constrained environment
 - Applies prompt pruning to reduce token usage.
 
 **Tech Stack:** Python, Docker, llama.cpp, Qwen 2.5 3B, Fireworks API, Next.js, Tailwind CSS
-
-### 🤖 Autovance AI
-**HEC Generative AI Cohort 3 | Team Lead**
-
-A bilingual workflow automation platform supporting English and Urdu users.
-
-- Built AI-assisted email drafting and delivery.
-- Implemented scheduled workflows and execution history.
-- Developed custom forms with server-side validation.
-- Created an explainable workflow builder.
-- Achieved 49/49 successful live smoke tests.
-
-**Tech Stack:** Next.js, Node.js, PostgreSQL, OpenRouter, Vercel
-
-### 🎨 AI Feature Kit
-**Final Year Project**
-
-A modular web application that brings multiple AI-powered tools together.
-
-- Text-to-image generation.
-- Text-to-speech conversion.
-- Voice effects and conversion.
-- Text summarization.
-- Background removal.
-
-**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MySQL
 
 ### 🌱 MIRA AI
 
@@ -197,6 +197,9 @@ An academic Human-Computer Interaction (HCI) project.
 - Contributed to **AMD ZeroToken** as part of Team Shaheen.
 - Focused on cost-efficient AI routing and local model execution.
 
+  ### NASA Space Apps Challenge 2026
+- Participated in the international space-focused innovation challenge. (Ongoing)
+
 ### HEC Generative AI Cohort 3
 - Led the **Autovance AI** project team.
 - Developed bilingual workflow automation features.
@@ -205,15 +208,8 @@ An academic Human-Computer Interaction (HCI) project.
 - Led the **HireGen AI** project team.
 - Worked on AI-assisted recruitment workflows.
 
-### NASA Space Apps Challenge 2026
-- Participated in the international space-focused innovation challenge.
-
 ### QuizOff 2026
 - Participated in an international competition involving 525,000+ students from 35+ countries.
-
-### Additional Hackathons
-- Participated in a total of **8 hackathons**.
-- Led 3 teams across collaborative technology projects.
 
 ---
 
@@ -227,7 +223,7 @@ An academic Human-Computer Interaction (HCI) project.
 - Contribute to an international learning community.
 
 ### iCodeGuru (USA)
-**IELTS Trainer, Guest Speaker, and Webinar Moderator**
+**Trainer, Guest Speaker, and Moderator**
 
 - Conducted IELTS sessions for **100+ underprivileged students**.
 - Moderated webinars and participated as a guest speaker.
@@ -239,17 +235,14 @@ An academic Human-Computer Interaction (HCI) project.
 - Completed the Aspire Leaders Program.
 - Participated in leadership development and learning activities.
 
-### IELTS Training Volunteer
-**September 2026 - October 2026**
 
-- Volunteered as an IELTS trainer.
-- Helped learners practice English and improve their speaking skills.
+### 🎤 University Webinars, Guest Speaking & Moderation
 
-### Stanford Code in Place Section Leader Information Session
-**GCUF | September 22, 2026**
+- Served as a **guest speaker and moderator** at webinars hosted by Ghazi University, University of Karachi, NED University, Iqra University and many other.
+- Spoke at the **Stanford Code in Place Section Leader Information Webinar** at my own univeristy GCUF (September 22, 2026).
+- Introduced students to **Stanford Code in Place X** and **PAI course** opportunities.
+- Selected as a **Stanford Code in Place X Section Leader**. Alhamdulillah!
 
-- Participated in a university information session.
-- Helped introduce students to the Stanford Code in Place opportunity.
 
 ### HCI Academic Project
 - Co-authored and presented an HCI report on procrastination and digital distraction among STEM students.
@@ -263,25 +256,25 @@ An academic Human-Computer Interaction (HCI) project.
 
 - Participated in web development training.
 
-### Generative AI Mastermind
-**Outskill | Led by Vaibhav Sisinty**
-
-- Explored Generative AI concepts and applications.
-
 ### Aspire Leaders Program
 **Cohort 3 | 2026**
 
 - Completed the Aspire Leaders Program.
 
-### Global Youth Development Forum
-**Sierra Leone Chapter | August 2026**
-
-- Participated in a youth development forum.
-
 ### Deloitte Australia Technology Job Simulation
 **June 2026 - August 2026**
 
 - Completed practical technology simulation activities focused on client system data.
+
+### Generative AI Mastermind
+**Outskill | Led by Vaibhav Sisinty**
+
+- Explored Generative AI concepts and applications.
+
+### Global Youth Development Forum
+**Sierra Leone Chapter | August 2026**
+
+- Participated in a youth development forum.
 
 ---
 
@@ -296,37 +289,21 @@ An academic Human-Computer Interaction (HCI) project.
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## 🛠️ Technical Skills
 
-**Frontend Development**
+**Languages:** Python, JavaScript, TypeScript, SQL, HTML5, CSS3
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Frontend:** React.js, Next.js, Tailwind CSS
 
-**Backend and Databases**
+**Backend & Databases:** Node.js, Express.js, FastAPI, MySQL, MongoDB, PostgreSQL
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**AI & Development:** Generative AI, Agentic AI, LLMs, Prompt Engineering, REST APIs, JWT Authentication
 
-**AI and Development Tools**
+**Tools:** Git, GitHub, VS Code, Figma, Vercel, Render
 
-- Generative AI, Agentic AI, LLM application development, prompt engineering.
-- REST APIs, JWT authentication, manual testing, usability testing, and HCI.
-- Git, GitHub, VS Code, Figma, Vercel, Render, and MongoDB Atlas.
 
-**Professional Skills**
+## 💼 Professional Skills
 
 - Teaching, mentoring, and team leadership.
 - Public speaking and webinar moderation.
