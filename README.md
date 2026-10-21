@@ -288,8 +288,6 @@ An academic Human-Computer Interaction (HCI) project.
 
 ---
 
-## 🛠️ Technical Skills
-
 
 ## 🛠️ Technical Skills
 
@@ -313,29 +311,6 @@ An academic Human-Computer Interaction (HCI) project.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MaryamAmjad-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Maryam's GitHub Statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAmjad-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=MaryamAmjad-Dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamAmjad-Dev&theme=tokyo-night&hide_border=true&area=true" alt="Maryam's GitHub Contribution Graph" width="100%"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
