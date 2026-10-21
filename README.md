@@ -216,21 +216,21 @@ An academic Human-Computer Interaction (HCI) project.
 
 ## 🤝 6. Volunteer Experience
 
-### Stanford Code in Place X (USA)
+### 🎓 Stanford Code in Place X (USA)
 **Section Leader | October 2026 - Present**
 
 - Teach beginner-level Python programming.
 - Support learners with programming concepts and exercises.
 - Contribute to an international learning community.
 
-### iCodeGuru (USA)
+### 🌐 iCodeGuru (USA)
 **Trainer, Guest Speaker, and Moderator**
 
 - Conducted IELTS sessions for **100+ underprivileged students**.
 - Moderated webinars and participated as a guest speaker.
 - Supported learners in developing their English communication skills.
 
-### Aspire Leaders Program
+### 🌟 Aspire Leaders Program
 **Alumna | Cohort 3 (2026)**
 
 - Completed the Aspire Leaders Program.
@@ -252,27 +252,27 @@ An academic Human-Computer Interaction (HCI) project.
 
 ## 📜 7. Training and Certificates
 
-### Web Development Bootcamp
+### 💻 Web Development Bootcamp
 **WPBrigade | In collaboration with iCodeGuru | September 2026**
 
 - Participated in web development training.
 
-### Aspire Leaders Program
+### 🌟 Aspire Leaders Program
 **Cohort 3 | 2026**
 
 - Completed the Aspire Leaders Program.
 
-### Deloitte Australia Technology Job Simulation
+### 🏢 Deloitte Australia Technology Job Simulation
 **June 2026 - August 2026**
 
 - Completed practical technology simulation activities focused on client system data.
 
-### Generative AI Mastermind
+### 🤖 Generative AI Mastermind
 **Outskill | Led by Vaibhav Sisinty**
 
 - Explored Generative AI concepts and applications.
 
-### Global Youth Development Forum
+### 🌍 Global Youth Development Forum
 **Sierra Leone Chapter | August 2026**
 
 - Participated in a youth development forum.
