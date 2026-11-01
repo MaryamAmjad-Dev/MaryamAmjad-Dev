@@ -62,7 +62,6 @@ I'm a **BS Information Technology graduate from Government College University Fa
 **Bachelor of Science in Information Technology (BS-IT)**
 
 - **CGPA:** 3.45/4.00
-- **Duration:** November 2021 to October 2025
 - **Academic Achievement:** Ranked 4th
 
 ---
